@@ -2,7 +2,7 @@
 body {
     background: url(images/tree.jpg) center center fixed;
     background-size: cover;
-    color: #fff;
+    color: #black;
 }
 
 /*title*/
@@ -25,12 +25,12 @@ body {
 
 /*Buttons*/
 #controlsContainer{
-    margin-bottom: 100px;   
+    margin-bottom: 60px;   
 }
 
 .control{
     color: white;
-    background-color: #d7A04e;
+    background-color: #1F0706;
     height: 10vw;
     width: 10vw;
     border-radius: 100%;
